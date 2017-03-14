@@ -1,0 +1,35 @@
+
+body{
+    background-color: #000;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+
+p{
+    font-size: 20px;
+}
+.instruction-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container {
+    margin-bottom: 50px;
+    margin-right:100px;
+}
+
+
+#game {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
